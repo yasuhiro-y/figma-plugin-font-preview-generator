@@ -1,0 +1,37 @@
+{
+  "name": "font-preview-generator",
+  "version": "1.0.0",
+  "description": "A Figma plugin for font preview generation",
+  "scripts": {
+    "build": "build-figma-plugin --typecheck --minify",
+    "watch": "build-figma-plugin --typecheck --watch",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
+    "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,json,css,scss,md}'"
+  },
+  "dependencies": {
+    "@create-figma-plugin/ui": "^2.1.3",
+    "@create-figma-plugin/utilities": "^2.1.3",
+    "preact": "^10.5.14"
+  },
+  "devDependencies": {
+    "@create-figma-plugin/build": "^2.1.3",
+    "@create-figma-plugin/tsconfig": "^2.1.3",
+    "@figma/plugin-typings": "^1.50.0",
+    "@types/eslint": "^9",
+    "@typescript-eslint/eslint-plugin": "^8.3.0",
+    "@typescript-eslint/parser": "^8.3.0",
+    "eslint": "^9.9.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react": "^7.35.0",
+    "prettier": "^3.3.3",
+    "typescript": "^4.5.5"
+  },
+  "figma-plugin": {
+    "name": "Font Preview Generator",
+    "id": "font-preview-generator",
+    "main": "src/main.ts",
+    "ui": "src/ui.tsx"
+  },
+  "packageManager": "yarn@4.4.1"
+}

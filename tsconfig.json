@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "es6",
+    "lib": ["es6", "dom", "es2017"],
+    "jsx": "react",
+    "jsxFactory": "h",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "typeRoots": ["./node_modules/@figma", "./node_modules/@types"],
+    "types": ["@figma/plugin-typings"],
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx", "global.d.ts"]
+}
