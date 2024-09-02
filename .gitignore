@@ -2,7 +2,7 @@
 *.log
 *.css.d.ts
 /build/
-/manifest.json
+# /manifest.json
 node_modules/
 scripts/
 output.txt

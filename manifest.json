@@ -1,0 +1,10 @@
+{
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "id": "1411727789333918216",
+  "name": "Font Preview Generator",
+  "main": "build/main.js",
+  "ui": "build/ui.js",
+  "documentAccess": "dynamic-page",
+  "networkAccess": { "allowedDomains": ["https://fonts.googleapis.com"] }
+}
