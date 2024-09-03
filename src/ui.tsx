@@ -53,9 +53,8 @@ const flexContainerStyles: h.JSX.CSSProperties = {
 const scrollableContainerStyles: h.JSX.CSSProperties = {
   maxHeight: '300px',
   overflowY: 'auto',
-  paddingTop: "16px",
-  paddingBottom: "16px",
-
+  paddingTop: '16px',
+  paddingBottom: '16px',
 }
 
 const fixedBottomStyles: h.JSX.CSSProperties = {
@@ -67,7 +66,6 @@ const fixedBottomStyles: h.JSX.CSSProperties = {
   backgroundColor: 'var(--figma-color-bg)',
   borderTop: '1px solid var(--figma-color-border)',
 }
-
 
 // Custom Textarea component
 function Textarea({ value, onValueInput, ...props }: TextareaProps) {
@@ -208,7 +206,6 @@ function Plugin() {
             ? 'Deselect All'
             : 'Select All'}
         </Button>
-
       </div>
       <div style={{ ...scrollableContainerStyles, marginBottom: '60px' }}>
         {isLoading ? (

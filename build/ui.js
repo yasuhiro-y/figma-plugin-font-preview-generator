@@ -520,10 +520,10 @@
     }
   });
 
-  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/13f238f4-4bad-45d7-92db-aee96e63a875/loading-indicator.module.js
+  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/937e7fa4-90e2-4629-9e0f-5676039ee9bd/loading-indicator.module.js
   var loading_indicator_module_default;
   var init_loading_indicator_module = __esm({
-    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/13f238f4-4bad-45d7-92db-aee96e63a875/loading-indicator.module.js"() {
+    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/937e7fa4-90e2-4629-9e0f-5676039ee9bd/loading-indicator.module.js"() {
       if (document.getElementById("10cb65dc86") === null) {
         const element = document.createElement("style");
         element.id = "10cb65dc86";
@@ -582,10 +582,10 @@
     }
   });
 
-  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/b40941f0-5851-492e-8167-432c08689af7/button.module.js
+  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/123e4219-db53-40c8-9f83-6a3682e64cfc/button.module.js
   var button_module_default;
   var init_button_module = __esm({
-    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/b40941f0-5851-492e-8167-432c08689af7/button.module.js"() {
+    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/123e4219-db53-40c8-9f83-6a3682e64cfc/button.module.js"() {
       if (document.getElementById("24321d7f63") === null) {
         const element = document.createElement("style");
         element.id = "24321d7f63";
@@ -768,10 +768,10 @@
     }
   });
 
-  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/14fdaacb-9ca3-4f65-bf7e-c16164c1b239/icon.module.js
+  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/fe8d4d34-762e-4ee2-a7e1-0ce68b5bdcc6/icon.module.js
   var icon_module_default;
   var init_icon_module = __esm({
-    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/14fdaacb-9ca3-4f65-bf7e-c16164c1b239/icon.module.js"() {
+    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/fe8d4d34-762e-4ee2-a7e1-0ce68b5bdcc6/icon.module.js"() {
       if (document.getElementById("864012990e") === null) {
         const element = document.createElement("style");
         element.id = "864012990e";
@@ -816,10 +816,10 @@
     }
   });
 
-  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/d4d8e344-885b-4d03-a570-3ec246f7085b/checkbox.module.js
+  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/4b9743ac-d370-43b1-8082-6a570694badf/checkbox.module.js
   var checkbox_module_default;
   var init_checkbox_module = __esm({
-    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/d4d8e344-885b-4d03-a570-3ec246f7085b/checkbox.module.js"() {
+    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/4b9743ac-d370-43b1-8082-6a570694badf/checkbox.module.js"() {
       if (document.getElementById("b9e6cb7363") === null) {
         const element = document.createElement("style");
         element.id = "b9e6cb7363";
@@ -962,10 +962,10 @@
     }
   });
 
-  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/502053c3-af01-46e9-bd54-25d2891b72ab/text.module.js
+  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/36e8082f-8586-42f1-b7a6-997ee2ff5e5e/text.module.js
   var text_module_default;
   var init_text_module = __esm({
-    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/502053c3-af01-46e9-bd54-25d2891b72ab/text.module.js"() {
+    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/36e8082f-8586-42f1-b7a6-997ee2ff5e5e/text.module.js"() {
       if (document.getElementById("9d5d713750") === null) {
         const element = document.createElement("style");
         element.id = "9d5d713750";
@@ -1030,10 +1030,10 @@
     }
   });
 
-  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/6f589ab2-31fd-4b89-b3ca-99d48962a48a/segmented-control.module.js
+  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/dc6c4e7a-01d3-4bb4-ac00-9edc5ba54233/segmented-control.module.js
   var segmented_control_module_default;
   var init_segmented_control_module = __esm({
-    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/6f589ab2-31fd-4b89-b3ca-99d48962a48a/segmented-control.module.js"() {
+    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/dc6c4e7a-01d3-4bb4-ac00-9edc5ba54233/segmented-control.module.js"() {
       if (document.getElementById("d11457b065") === null) {
         const element = document.createElement("style");
         element.id = "d11457b065";
@@ -1316,10 +1316,10 @@
     }
   });
 
-  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/3ce4822e-0554-4a2a-9220-6024df0fad33/textbox.module.js
+  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/e122dee3-8341-4933-9961-899d7c2433ac/textbox.module.js
   var textbox_module_default;
   var init_textbox_module = __esm({
-    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/3ce4822e-0554-4a2a-9220-6024df0fad33/textbox.module.js"() {
+    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/e122dee3-8341-4933-9961-899d7c2433ac/textbox.module.js"() {
       if (document.getElementById("9c04c7da42") === null) {
         const element = document.createElement("style");
         element.id = "9c04c7da42";
@@ -1472,10 +1472,10 @@
     }
   });
 
-  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/76457a34-a98f-4938-8b76-be912ab5db3e/container.module.js
+  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/e4be1320-8c92-4c46-977d-8bd1718b92a1/container.module.js
   var container_module_default;
   var init_container_module = __esm({
-    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/76457a34-a98f-4938-8b76-be912ab5db3e/container.module.js"() {
+    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/e4be1320-8c92-4c46-977d-8bd1718b92a1/container.module.js"() {
       if (document.getElementById("2400f4f55b") === null) {
         const element = document.createElement("style");
         element.id = "2400f4f55b";
@@ -1514,10 +1514,10 @@
     }
   });
 
-  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/81e9b389-daf6-4aca-85b5-c2484374fcb0/vertical-space.module.js
+  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/1645896e-4762-4bdd-93a0-2f8b0a45ab0d/vertical-space.module.js
   var vertical_space_module_default;
   var init_vertical_space_module = __esm({
-    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/81e9b389-daf6-4aca-85b5-c2484374fcb0/vertical-space.module.js"() {
+    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/1645896e-4762-4bdd-93a0-2f8b0a45ab0d/vertical-space.module.js"() {
       if (document.getElementById("1c8cb11022") === null) {
         const element = document.createElement("style");
         element.id = "1c8cb11022";
@@ -1556,9 +1556,9 @@
     }
   });
 
-  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/dbbf5339-1915-437f-b3b9-68c968fe6cd2/base.js
+  // ../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/55135d6d-4a26-4b80-8f34-40b22887eb83/base.js
   var init_base = __esm({
-    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/dbbf5339-1915-437f-b3b9-68c968fe6cd2/base.js"() {
+    "../../../../private/var/folders/z0/hwpyhjhx63l7d2s5g7zhnw2c0000gn/T/55135d6d-4a26-4b80-8f34-40b22887eb83/base.js"() {
       if (document.getElementById("614e22b3ef") === null) {
         const element = document.createElement("style");
         element.id = "614e22b3ef";
@@ -1714,13 +1714,8 @@ svg {
             kind: "webfonts#webfont",
             family: "ABeeZee",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -1732,12 +1727,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Abel",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -1748,13 +1739,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Abril Fatface",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -1765,12 +1751,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Aclonica",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -1781,12 +1763,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Acme",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -1797,12 +1775,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Actor",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -1813,12 +1787,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Adamina",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -1829,20 +1799,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Advent Pro",
             category: "sans-serif",
-            variants: [
-              "100",
-              "200",
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "greek"
-            ],
+            variants: ["100", "200", "300", "regular", "500", "600", "700"],
+            subsets: ["latin-ext", "latin", "greek"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -1859,13 +1817,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Aguafina Script",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -1876,13 +1829,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Akronim",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -1893,13 +1841,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Aladin",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -1910,12 +1853,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Aldrich",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -1926,14 +1865,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Alef",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin",
-              "hebrew"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin", "hebrew"],
             version: "v5",
             lastModified: "2015-04-08",
             files: {
@@ -1945,18 +1878,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Alegreya",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic",
-              "900",
-              "900italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic", "900", "900italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -1972,18 +1895,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Alegreya SC",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic",
-              "900",
-              "900italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic", "900", "900italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2015,11 +1928,7 @@ svg {
               "900",
               "900italic"
             ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "vietnamese"
-            ],
+            subsets: ["latin-ext", "latin", "vietnamese"],
             version: "v3",
             lastModified: "2015-04-06",
             files: {
@@ -2059,11 +1968,7 @@ svg {
               "900",
               "900italic"
             ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "vietnamese"
-            ],
+            subsets: ["latin-ext", "latin", "vietnamese"],
             version: "v3",
             lastModified: "2015-04-06",
             files: {
@@ -2087,13 +1992,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Alex Brush",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2104,12 +2004,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Alfa Slab One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -2120,12 +2016,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Alice",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -2136,12 +2028,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Alike",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -2152,12 +2040,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Alike Angular",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2168,14 +2052,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Allan",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -2187,12 +2065,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Allerta",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -2203,12 +2077,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Allerta Stencil",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -2219,13 +2089,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Allura",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2236,16 +2101,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Almendra",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -2259,13 +2116,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Almendra Display",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-03",
             files: {
@@ -2276,12 +2128,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Almendra SC",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-03",
             files: {
@@ -2292,13 +2140,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Amarante",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2309,15 +2152,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Amaranth",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2331,13 +2167,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Amatic SC",
             category: "handwriting",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2349,12 +2180,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Amethysta",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2365,16 +2192,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Amiri",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin",
-              "arabic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin", "arabic"],
             version: "v7",
             lastModified: "2015-04-07",
             files: {
@@ -2388,13 +2207,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Anaheim",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2405,13 +2219,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Andada",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -2422,15 +2231,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Andika",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "cyrillic"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2441,12 +2243,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Angkor",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -2457,12 +2255,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Annie Use Your Telescope",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2473,18 +2267,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Anonymous Pro",
             category: "monospace",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "greek",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin", "greek", "cyrillic"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -2498,12 +2282,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Antic",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -2514,12 +2294,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Antic Didone",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2530,12 +2306,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Antic Slab",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2546,13 +2318,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Anton",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2563,13 +2330,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Arapey",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -2581,13 +2343,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Arbutus",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-03",
             files: {
@@ -2598,13 +2355,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Arbutus Slab",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2615,12 +2367,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Architects Daughter",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2631,13 +2379,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Archivo Black",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2648,16 +2391,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Archivo Narrow",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -2671,12 +2406,7 @@ svg {
             kind: "webfonts#webfont",
             family: "Arimo",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
             subsets: [
               "latin-ext",
               "cyrillic-ext",
@@ -2700,13 +2430,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Arizonia",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2717,13 +2442,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Armata",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2734,12 +2454,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Artifika",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2750,15 +2466,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Arvo",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -2772,16 +2481,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Asap",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2795,12 +2496,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Asset",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2811,13 +2508,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Astloch",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2829,13 +2521,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Asul",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -2847,12 +2534,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Atomic Age",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -2863,12 +2546,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Aubrey",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -2879,13 +2558,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Audiowide",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2896,13 +2570,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Autour One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2913,13 +2582,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Average",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2930,13 +2594,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Average Sans",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2947,13 +2606,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Averia Gruesa Libre",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2964,17 +2618,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Averia Libre",
             category: "display",
-            variants: [
-              "300",
-              "300italic",
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["300", "300italic", "regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -2990,17 +2635,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Averia Sans Libre",
             category: "display",
-            variants: [
-              "300",
-              "300italic",
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["300", "300italic", "regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -3016,17 +2652,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Averia Serif Libre",
             category: "display",
-            variants: [
-              "300",
-              "300italic",
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["300", "300italic", "regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -3042,13 +2669,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bad Script",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "cyrillic"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -3059,12 +2681,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Balthazar",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -3075,12 +2693,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bangers",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -3091,13 +2705,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Basic",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3108,13 +2717,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Battambang",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["khmer"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -3126,12 +2730,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Baumans",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -3142,12 +2742,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bayon",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v8",
             lastModified: "2015-04-03",
             files: {
@@ -3158,12 +2754,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Belgrano",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3174,13 +2766,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Belleza",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -3191,15 +2778,8 @@ svg {
             kind: "webfonts#webfont",
             family: "BenchNine",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["300", "regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -3212,12 +2792,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bentham",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3228,13 +2804,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Berkshire Swash",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -3245,12 +2816,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bevan",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -3261,13 +2828,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bigelow Rules",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-03",
             files: {
@@ -3278,12 +2840,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bigshot One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3294,13 +2852,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bilbo",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3311,13 +2864,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bilbo Swash Caps",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -3328,20 +2876,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Biryani",
             category: "sans-serif",
-            variants: [
-              "200",
-              "300",
-              "regular",
-              "600",
-              "700",
-              "800",
-              "900"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["200", "300", "regular", "600", "700", "800", "900"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-22",
             files: {
@@ -3358,15 +2894,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bitter",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -3379,13 +2908,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Black Ops One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -3396,12 +2920,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bokor",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -3412,12 +2932,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bonbon",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-03",
             files: {
@@ -3428,12 +2944,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Boogaloo",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3444,12 +2956,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bowlby One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -3460,13 +2968,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bowlby One SC",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -3477,12 +2980,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Brawler",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3493,13 +2992,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bree Serif",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -3510,13 +3004,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bubblegum Sans",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -3527,13 +3016,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Bubbler One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -3544,12 +3028,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Buda",
             category: "display",
-            variants: [
-              "300"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["300"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3560,14 +3040,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Buenard",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3579,13 +3053,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Butcherman",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -3596,13 +3065,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Butterfly Kids",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -3613,19 +3077,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cabin",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "500",
-              "500italic",
-              "600",
-              "600italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "500", "500italic", "600", "600italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -3643,15 +3096,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cabin Condensed",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "500",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "500", "600", "700"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -3665,13 +3111,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cabin Sketch",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -3683,12 +3124,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Caesar Dressing",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -3699,12 +3136,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cagliostro",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -3715,12 +3148,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Calligraffitti",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -3731,17 +3160,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cambay",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-03",
             files: {
@@ -3755,12 +3175,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cambo",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -3771,12 +3187,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Candal",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3787,15 +3199,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cantarell",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3809,13 +3214,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cantata One",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -3826,13 +3226,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cantora One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -3843,13 +3238,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Capriola",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -3860,17 +3250,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cardo",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "greek",
-              "greek-ext"
-            ],
+            variants: ["regular", "italic", "700"],
+            subsets: ["latin-ext", "latin", "greek", "greek-ext"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -3883,12 +3264,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Carme",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -3899,12 +3276,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Carrois Gothic",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -3915,12 +3288,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Carrois Gothic SC",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -3931,12 +3300,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Carter One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -3947,18 +3312,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Caudex",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "greek",
-              "greek-ext"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin", "greek", "greek-ext"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3972,12 +3327,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cedarville Cursive",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -3988,12 +3339,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ceviche One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4004,13 +3351,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Changa One",
             category: "display",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -4022,13 +3364,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Chango",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -4039,14 +3376,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Chau Philomene One",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4058,13 +3389,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Chela One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4075,13 +3401,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Chelsea Market",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4092,12 +3413,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Chenla",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v9",
             lastModified: "2015-04-03",
             files: {
@@ -4108,12 +3425,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cherry Cream Soda",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4124,14 +3437,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cherry Swash",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4143,12 +3450,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Chewy",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -4159,13 +3462,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Chicle",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -4176,15 +3474,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Chivo",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "900",
-              "900italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "900", "900italic"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -4198,14 +3489,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cinzel",
             category: "serif",
-            variants: [
-              "regular",
-              "700",
-              "900"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700", "900"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4218,14 +3503,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cinzel Decorative",
             category: "display",
-            variants: [
-              "regular",
-              "700",
-              "900"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700", "900"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4238,13 +3517,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Clicker Script",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4255,13 +3529,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Coda",
             category: "display",
-            variants: [
-              "regular",
-              "800"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "800"],
+            subsets: ["latin"],
             version: "v10",
             lastModified: "2015-04-06",
             files: {
@@ -4273,12 +3542,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Coda Caption",
             category: "sans-serif",
-            variants: [
-              "800"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["800"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -4289,14 +3554,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Codystar",
             category: "display",
-            variants: [
-              "300",
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["300", "regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4308,13 +3567,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Combo",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -4325,18 +3579,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Comfortaa",
             category: "display",
-            variants: [
-              "300",
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "greek",
-              "cyrillic"
-            ],
+            variants: ["300", "regular", "700"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "greek", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -4349,12 +3593,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Coming Soon",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4365,13 +3605,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Concert One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -4382,13 +3617,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Condiment",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4399,13 +3629,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Content",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["khmer"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -4417,12 +3642,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Contrail One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4433,12 +3654,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Convergence",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -4449,12 +3666,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cookie",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -4465,12 +3678,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Copse",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4481,13 +3690,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Corben",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -4499,13 +3703,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Courgette",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4516,12 +3715,7 @@ svg {
             kind: "webfonts#webfont",
             family: "Cousine",
             category: "monospace",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
             subsets: [
               "latin-ext",
               "cyrillic-ext",
@@ -4545,13 +3739,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Coustard",
             category: "serif",
-            variants: [
-              "regular",
-              "900"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "900"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4563,12 +3752,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Covered By Your Grace",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4579,12 +3764,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Crafty Girls",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -4595,12 +3776,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Creepster",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -4611,14 +3788,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Crete Round",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -4630,17 +3801,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Crimson Text",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "600",
-              "600italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "600", "600italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4656,13 +3818,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Croissant One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4673,12 +3830,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Crushed",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4689,17 +3842,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cuprum",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -4713,13 +3857,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cutive",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -4730,13 +3869,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Cutive Mono",
             category: "monospace",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4747,12 +3881,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Damion",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4763,13 +3893,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Dancing Script",
             category: "handwriting",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4781,12 +3906,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Dangrek",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -4797,12 +3918,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Dawning of a New Day",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -4813,12 +3930,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Days One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4829,14 +3942,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Dekko",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v2",
             lastModified: "2015-04-03",
             files: {
@@ -4847,12 +3954,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Delius",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -4863,12 +3966,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Delius Swash Caps",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -4879,13 +3978,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Delius Unicase",
             category: "handwriting",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -4897,12 +3991,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Della Respira",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4913,13 +4003,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Denk One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -4930,13 +4015,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Devonshire",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -4947,13 +4027,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Dhurjati",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v4",
             lastModified: "2015-04-07",
             files: {
@@ -4964,17 +4039,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Didact Gothic",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "greek",
-              "greek-ext",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "greek", "greek-ext", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -4985,13 +4051,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Diplomata",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-03-20",
             files: {
@@ -5002,13 +4063,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Diplomata SC",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-03",
             files: {
@@ -5019,14 +4075,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Domine",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5038,13 +4088,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Donegal One",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5055,13 +4100,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Doppio One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5072,12 +4112,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Dorsa",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -5088,19 +4124,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Dosis",
             category: "sans-serif",
-            variants: [
-              "200",
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700",
-              "800"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["200", "300", "regular", "500", "600", "700", "800"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5117,13 +4142,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Dr Sugiyama",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-03",
             files: {
@@ -5134,13 +4154,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Droid Sans",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -5152,12 +4167,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Droid Sans Mono",
             category: "monospace",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -5168,15 +4179,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Droid Serif",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -5190,13 +4194,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Duru Sans",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -5207,13 +4206,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Dynalight",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -5224,16 +4218,8 @@ svg {
             kind: "webfonts#webfont",
             family: "EB Garamond",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "vietnamese",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "vietnamese", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -5244,13 +4230,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Eagle Lake",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5261,13 +4242,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Eater",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -5278,16 +4254,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Economica",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5301,20 +4269,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ek Mukta",
             category: "sans-serif",
-            variants: [
-              "200",
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700",
-              "800"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["200", "300", "regular", "500", "600", "700", "800"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -5331,12 +4287,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Electrolize",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -5347,14 +4299,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Elsie",
             category: "display",
-            variants: [
-              "regular",
-              "900"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "900"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -5366,14 +4312,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Elsie Swash Caps",
             category: "display",
-            variants: [
-              "regular",
-              "900"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "900"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5385,13 +4325,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Emblema One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -5402,13 +4337,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Emilys Candy",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5419,12 +4349,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Engagement",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -5435,13 +4361,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Englebert",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5452,14 +4373,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Enriqueta",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -5471,12 +4386,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Erica One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-03",
             files: {
@@ -5487,13 +4398,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Esteban",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5504,13 +4410,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Euphoria Script",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5521,13 +4422,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ewert",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5558,10 +4454,7 @@ svg {
               "900",
               "900italic"
             ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5609,11 +4502,7 @@ svg {
               "900",
               "900italic"
             ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v3",
             lastModified: "2015-04-06",
             files: {
@@ -5641,19 +4530,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Expletus Sans",
             category: "display",
-            variants: [
-              "regular",
-              "italic",
-              "500",
-              "500italic",
-              "600",
-              "600italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "500", "500italic", "600", "600italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -5671,13 +4549,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fanwood Text",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -5689,12 +4562,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fascinate",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-03",
             files: {
@@ -5705,12 +4574,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fascinate Inline",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-03",
             files: {
@@ -5721,12 +4586,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Faster One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -5737,12 +4598,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fasthand",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v7",
             lastModified: "2015-04-03",
             files: {
@@ -5753,13 +4610,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fauna One",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5770,12 +4622,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Federant",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -5786,12 +4634,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Federo",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -5802,13 +4646,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Felipa",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5819,13 +4658,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fenix",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5836,12 +4670,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Finger Paint",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5852,17 +4682,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fira Mono",
             category: "monospace",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "greek",
-              "cyrillic"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "greek", "cyrillic"],
             version: "v3",
             lastModified: "2015-04-06",
             files: {
@@ -5874,23 +4695,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fira Sans",
             category: "sans-serif",
-            variants: [
-              "300",
-              "300italic",
-              "regular",
-              "italic",
-              "500",
-              "500italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "greek",
-              "cyrillic"
-            ],
+            variants: ["300", "300italic", "regular", "italic", "500", "500italic", "700", "700italic"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "greek", "cyrillic"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -5908,13 +4714,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fjalla One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -5925,12 +4726,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fjord One",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -5941,13 +4738,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Flamenco",
             category: "display",
-            variants: [
-              "300",
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["300", "regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -5959,12 +4751,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Flavors",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-03",
             files: {
@@ -5975,14 +4763,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fondamento",
             category: "handwriting",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -5994,12 +4776,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fontdiner Swanky",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6010,15 +4788,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Forum",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -6029,13 +4800,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Francois One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -6046,13 +4812,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Freckle Face",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6063,12 +4824,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fredericka the Great",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -6079,12 +4836,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fredoka One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6095,12 +4848,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Freehand",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -6111,13 +4860,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fresca",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -6128,12 +4872,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Frijole",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -6144,13 +4884,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fruktur",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-03",
             files: {
@@ -6161,12 +4896,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Fugaz One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6177,12 +4908,8 @@ svg {
             kind: "webfonts#webfont",
             family: "GFS Didot",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "greek"
-            ],
+            variants: ["regular"],
+            subsets: ["greek"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6193,15 +4920,8 @@ svg {
             kind: "webfonts#webfont",
             family: "GFS Neohellenic",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "greek"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["greek"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -6215,13 +4935,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gabriela",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6232,13 +4947,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gafata",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -6249,12 +4959,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Galdeano",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6265,13 +4971,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Galindo",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6282,16 +4983,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gentium Basic",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -6305,16 +4998,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gentium Book Basic",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6328,13 +5013,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Geo",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -6346,12 +5026,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Geostar",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6362,12 +5038,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Geostar Fill",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6378,12 +5050,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Germania One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6394,13 +5062,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gidugu",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v3",
             lastModified: "2015-04-07",
             files: {
@@ -6411,13 +5074,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gilda Display",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6428,12 +5086,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Give You Glory",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6444,13 +5098,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Glass Antiqua",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6461,15 +5110,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Glegoo",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -6481,12 +5123,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gloria Hallelujah",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -6497,12 +5135,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Goblin One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6513,12 +5147,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gochi Hand",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -6529,13 +5159,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gorditas",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6547,12 +5172,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Goudy Bookletter 1911",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6563,12 +5184,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Graduate",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6579,13 +5196,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Grand Hotel",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6596,12 +5208,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gravitas One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6612,13 +5220,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Great Vibes",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6629,13 +5232,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Griffy",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6646,13 +5244,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gruppo",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -6663,15 +5256,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gudea",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6684,13 +5270,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Gurajada",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v4",
             lastModified: "2015-04-07",
             files: {
@@ -6701,13 +5282,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Habibi",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -6718,18 +5294,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Halant",
             category: "serif",
-            variants: [
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["300", "regular", "500", "600", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-01",
             files: {
@@ -6744,13 +5310,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Hammersmith One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -6761,13 +5322,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Hanalei",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-03",
             files: {
@@ -6778,13 +5334,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Hanalei Fill",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-03",
             files: {
@@ -6795,12 +5346,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Handlee",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -6811,13 +5358,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Hanuman",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["khmer"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -6829,13 +5371,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Happy Monkey",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -6846,13 +5383,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Headland One",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6863,12 +5395,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Henny Penny",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -6879,13 +5407,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Herr Von Muellerhoff",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6896,18 +5419,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Hind",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["300", "regular", "500", "600", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -6922,12 +5435,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Holtwood One SC",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -6938,12 +5447,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Homemade Apple",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6954,13 +5459,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Homenaje",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -6971,13 +5471,8 @@ svg {
             kind: "webfonts#webfont",
             family: "IM Fell DW Pica",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -6989,12 +5484,8 @@ svg {
             kind: "webfonts#webfont",
             family: "IM Fell DW Pica SC",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7005,13 +5496,8 @@ svg {
             kind: "webfonts#webfont",
             family: "IM Fell Double Pica",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7023,12 +5509,8 @@ svg {
             kind: "webfonts#webfont",
             family: "IM Fell Double Pica SC",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7039,13 +5521,8 @@ svg {
             kind: "webfonts#webfont",
             family: "IM Fell English",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7057,12 +5534,8 @@ svg {
             kind: "webfonts#webfont",
             family: "IM Fell English SC",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7073,13 +5546,8 @@ svg {
             kind: "webfonts#webfont",
             family: "IM Fell French Canon",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7091,12 +5559,8 @@ svg {
             kind: "webfonts#webfont",
             family: "IM Fell French Canon SC",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7107,13 +5571,8 @@ svg {
             kind: "webfonts#webfont",
             family: "IM Fell Great Primer",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7125,12 +5584,8 @@ svg {
             kind: "webfonts#webfont",
             family: "IM Fell Great Primer SC",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7141,12 +5596,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Iceberg",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7157,12 +5608,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Iceland",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -7173,13 +5620,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Imprima",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7190,14 +5632,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Inconsolata",
             category: "monospace",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v10",
             lastModified: "2015-04-06",
             files: {
@@ -7209,13 +5645,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Inder",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -7226,12 +5657,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Indie Flower",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -7242,14 +5669,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Inika",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7261,12 +5682,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Irish Grover",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7277,18 +5694,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Istok Web",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "cyrillic"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -7302,12 +5709,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Italiana",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7318,13 +5721,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Italianno",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7335,12 +5733,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Jacques Francois",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7351,12 +5745,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Jacques Francois Shadow",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7367,15 +5757,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Jaldi",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-22",
             files: {
@@ -7387,13 +5770,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Jim Nightshade",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-03",
             files: {
@@ -7404,13 +5782,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Jockey One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7421,13 +5794,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Jolly Lodger",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7450,10 +5818,7 @@ svg {
               "700",
               "700italic"
             ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            subsets: ["latin-ext", "latin"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -7485,9 +5850,7 @@ svg {
               "700",
               "700italic"
             ],
-            subsets: [
-              "latin"
-            ],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7507,13 +5870,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Joti One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7524,14 +5882,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Judson",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -7544,12 +5896,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Julee",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7560,13 +5908,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Julius Sans One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-22",
             files: {
@@ -7577,12 +5920,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Junge",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7593,19 +5932,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Jura",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "500",
-              "600"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "greek",
-              "cyrillic"
-            ],
+            variants: ["300", "regular", "500", "600"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "greek", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -7619,12 +5947,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Just Another Hand",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -7635,13 +5959,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Just Me Again Down Here",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -7652,16 +5971,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kalam",
             category: "handwriting",
-            variants: [
-              "300",
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["300", "regular", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7674,13 +5985,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kameron",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -7692,14 +5998,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kantumruy",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["300", "regular", "700"],
+            subsets: ["khmer"],
             version: "v3",
             lastModified: "2015-04-03",
             files: {
@@ -7712,16 +6012,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Karla",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -7735,18 +6027,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Karma",
             category: "serif",
-            variants: [
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["300", "regular", "500", "600", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -7761,13 +6043,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kaushan Script",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7778,13 +6055,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kavoon",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7795,12 +6067,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kdam Thmor",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v3",
             lastModified: "2015-04-06",
             files: {
@@ -7811,13 +6079,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Keania One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7828,14 +6091,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kelly Slab",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -7846,12 +6103,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kenia",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -7862,18 +6115,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Khand",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["300", "regular", "500", "600", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7888,12 +6131,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Khmer",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -7904,18 +6143,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Khula",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "600",
-              "700",
-              "800"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["300", "regular", "600", "700", "800"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-06",
             files: {
@@ -7930,12 +6159,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kite One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7946,13 +6171,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Knewave",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -7963,13 +6183,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kotta One",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -7980,12 +6195,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Koulen",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v10",
             lastModified: "2015-04-06",
             files: {
@@ -7996,12 +6207,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kranky",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -8012,14 +6219,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kreon",
             category: "serif",
-            variants: [
-              "300",
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["300", "regular", "700"],
+            subsets: ["latin"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -8032,12 +6233,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Kristi",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -8048,13 +6245,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Krona One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8065,12 +6257,8 @@ svg {
             kind: "webfonts#webfont",
             family: "La Belle Aurore",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -8081,18 +6269,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Laila",
             category: "serif",
-            variants: [
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["300", "regular", "500", "600", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-01",
             files: {
@@ -8107,13 +6285,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lakki Reddy",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v3",
             lastModified: "2015-04-03",
             files: {
@@ -8124,12 +6297,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lancelot",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -8140,13 +6309,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lateef",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "arabic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "arabic"],
             version: "v10",
             lastModified: "2015-04-07",
             files: {
@@ -8169,10 +6333,7 @@ svg {
               "900",
               "900italic"
             ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            subsets: ["latin-ext", "latin"],
             version: "v11",
             lastModified: "2015-04-06",
             files: {
@@ -8192,12 +6353,8 @@ svg {
             kind: "webfonts#webfont",
             family: "League Script",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -8208,12 +6365,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Leckerli One",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -8224,14 +6377,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ledger",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8242,15 +6389,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lekton",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -8263,12 +6403,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lemon",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -8279,15 +6415,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Libre Baskerville",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8300,14 +6429,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Life Savers",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -8319,13 +6442,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lilita One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8336,13 +6454,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lily Script One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8353,13 +6466,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Limelight",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -8370,13 +6478,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Linden Hill",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -8388,14 +6491,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lobster",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v12",
             lastModified: "2015-04-06",
             files: {
@@ -8406,15 +6503,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lobster Two",
             category: "display",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -8428,12 +6518,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Londrina Outline",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -8444,12 +6530,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Londrina Shadow",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8460,12 +6542,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Londrina Sketch",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8476,12 +6554,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Londrina Solid",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8492,17 +6566,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lora",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -8516,12 +6581,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Love Ya Like A Sister",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -8532,12 +6593,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Loved by the King",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -8548,13 +6605,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lovers Quarrel",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8565,12 +6617,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Luckiest Guy",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -8581,13 +6629,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lusitana",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8599,12 +6642,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Lustria",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8615,12 +6654,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Macondo",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-03",
             files: {
@@ -8631,12 +6666,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Macondo Swash Caps",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-03",
             files: {
@@ -8647,14 +6678,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Magra",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8666,12 +6691,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Maiden Orange",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -8682,12 +6703,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mako",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -8698,13 +6715,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mallanna",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v4",
             lastModified: "2015-04-07",
             files: {
@@ -8715,13 +6727,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mandali",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v4",
             lastModified: "2015-04-07",
             files: {
@@ -8732,13 +6739,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Marcellus",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8749,13 +6751,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Marcellus SC",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8766,14 +6763,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Marck Script",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -8784,13 +6775,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Margarine",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -8801,12 +6787,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Marko One",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -8817,14 +6799,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Marmelad",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -8835,20 +6811,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Martel",
             category: "serif",
-            variants: [
-              "200",
-              "300",
-              "regular",
-              "600",
-              "700",
-              "800",
-              "900"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["200", "300", "regular", "600", "700", "800", "900"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-22",
             files: {
@@ -8865,20 +6829,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Martel Sans",
             category: "sans-serif",
-            variants: [
-              "200",
-              "300",
-              "regular",
-              "600",
-              "700",
-              "800",
-              "900"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["200", "300", "regular", "600", "700", "800", "900"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-07",
             files: {
@@ -8895,15 +6847,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Marvel",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -8917,13 +6862,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mate",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -8935,12 +6875,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mate SC",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -8951,15 +6887,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Maven Pro",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "500",
-              "700",
-              "900"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "500", "700", "900"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -8973,13 +6902,8 @@ svg {
             kind: "webfonts#webfont",
             family: "McLaren",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -8990,12 +6914,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Meddon",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-08",
             files: {
@@ -9006,13 +6926,8 @@ svg {
             kind: "webfonts#webfont",
             family: "MedievalSharp",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -9023,12 +6938,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Medula One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -9039,12 +6950,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Megrim",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -9055,13 +6962,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Meie Script",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-03",
             files: {
@@ -9072,14 +6974,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Merienda",
             category: "handwriting",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -9091,12 +6987,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Merienda One",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -9107,20 +6999,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Merriweather",
             category: "serif",
-            variants: [
-              "300",
-              "300italic",
-              "regular",
-              "italic",
-              "700",
-              "700italic",
-              "900",
-              "900italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["300", "300italic", "regular", "italic", "700", "700italic", "900", "900italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -9138,20 +7018,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Merriweather Sans",
             category: "sans-serif",
-            variants: [
-              "300",
-              "300italic",
-              "regular",
-              "italic",
-              "700",
-              "700italic",
-              "800",
-              "800italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["300", "300italic", "regular", "italic", "700", "700italic", "800", "800italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -9169,12 +7037,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Metal",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v9",
             lastModified: "2015-04-03",
             files: {
@@ -9185,13 +7049,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Metal Mania",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-03",
             files: {
@@ -9202,13 +7061,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Metamorphous",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -9219,12 +7073,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Metrophobic",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -9235,12 +7085,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Michroma",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -9251,13 +7097,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Milonga",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -9268,12 +7109,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Miltonian",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -9284,12 +7121,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Miltonian Tattoo",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -9300,12 +7133,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Miniver",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -9316,13 +7145,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Miss Fajardose",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-03",
             files: {
@@ -9333,14 +7157,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Modak",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-03",
             files: {
@@ -9351,13 +7169,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Modern Antiqua",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -9368,13 +7181,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Molengo",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -9385,13 +7193,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Molle",
             category: "handwriting",
-            variants: [
-              "italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -9402,14 +7205,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Monda",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -9421,12 +7218,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Monofett",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -9437,12 +7230,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Monoton",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -9453,13 +7242,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Monsieur La Doulaise",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -9470,12 +7254,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Montaga",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -9486,12 +7266,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Montez",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -9502,13 +7278,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Montserrat",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -9520,13 +7291,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Montserrat Alternates",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -9538,13 +7304,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Montserrat Subrayada",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -9556,12 +7317,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Moul",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v8",
             lastModified: "2015-04-03",
             files: {
@@ -9572,12 +7329,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Moulpali",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v9",
             lastModified: "2015-04-03",
             files: {
@@ -9588,13 +7341,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mountains of Christmas",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -9606,13 +7354,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mouse Memoirs",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -9623,13 +7366,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mr Bedfort",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-03",
             files: {
@@ -9640,13 +7378,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mr Dafoe",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -9657,13 +7390,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mr De Haviland",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -9674,13 +7402,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mrs Saint Delafield",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -9691,13 +7414,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mrs Sheppards",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -9708,15 +7426,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Muli",
             category: "sans-serif",
-            variants: [
-              "300",
-              "300italic",
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["300", "300italic", "regular", "italic"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -9730,13 +7441,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Mystery Quest",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -9747,13 +7453,8 @@ svg {
             kind: "webfonts#webfont",
             family: "NTR",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v4",
             lastModified: "2015-04-07",
             files: {
@@ -9764,13 +7465,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Neucha",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -9781,18 +7477,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Neuton",
             category: "serif",
-            variants: [
-              "200",
-              "300",
-              "regular",
-              "italic",
-              "700",
-              "800"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["200", "300", "regular", "italic", "700", "800"],
+            subsets: ["latin-ext", "latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -9808,13 +7494,8 @@ svg {
             kind: "webfonts#webfont",
             family: "New Rocker",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-03",
             files: {
@@ -9825,14 +7506,8 @@ svg {
             kind: "webfonts#webfont",
             family: "News Cycle",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v13",
             lastModified: "2015-04-16",
             files: {
@@ -9844,13 +7519,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Niconne",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -9861,12 +7531,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nixie One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -9877,15 +7543,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nobile",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -9899,13 +7558,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nokora",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["khmer"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -9917,13 +7571,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Norican",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -9934,13 +7583,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nosifer",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -9951,12 +7595,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nothing You Could Do",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -9967,17 +7607,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Noticia Text",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "vietnamese"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin", "vietnamese"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -9991,12 +7622,7 @@ svg {
             kind: "webfonts#webfont",
             family: "Noto Sans",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
             subsets: [
               "latin-ext",
               "cyrillic-ext",
@@ -10020,12 +7646,7 @@ svg {
             kind: "webfonts#webfont",
             family: "Noto Serif",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
             subsets: [
               "latin-ext",
               "cyrillic-ext",
@@ -10048,12 +7669,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nova Cut",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10064,12 +7681,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nova Flat",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10080,13 +7693,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nova Mono",
             category: "monospace",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "greek"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "greek"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -10097,12 +7705,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nova Oval",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10113,12 +7717,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nova Round",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10129,12 +7729,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nova Script",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10145,12 +7741,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nova Slim",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10161,12 +7753,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nova Square",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10177,12 +7765,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Numans",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -10193,14 +7777,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Nunito",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["300", "regular", "700"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -10213,12 +7791,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Odor Mean Chey",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v8",
             lastModified: "2015-04-03",
             files: {
@@ -10229,12 +7803,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Offside",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10245,14 +7815,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Old Standard TT",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -10265,13 +7829,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Oldenburg",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10282,14 +7841,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Oleo Script",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -10301,14 +7854,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Oleo Script Swash Caps",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10361,11 +7908,7 @@ svg {
             kind: "webfonts#webfont",
             family: "Open Sans Condensed",
             category: "sans-serif",
-            variants: [
-              "300",
-              "300italic",
-              "700"
-            ],
+            variants: ["300", "300italic", "700"],
             subsets: [
               "latin-ext",
               "cyrillic-ext",
@@ -10387,15 +7930,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Oranienbaum",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "cyrillic"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10406,15 +7942,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Orbitron",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "500",
-              "700",
-              "900"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "500", "700", "900"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -10428,14 +7957,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Oregano",
             category: "display",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10447,13 +7970,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Orienta",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10464,12 +7982,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Original Surfer",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -10480,15 +7994,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Oswald",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["300", "regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v10",
             lastModified: "2015-04-06",
             files: {
@@ -10501,12 +8008,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Over the Rainbow",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -10517,18 +8020,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Overlock",
             category: "display",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic",
-              "900",
-              "900italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic", "900", "900italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -10544,13 +8037,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Overlock SC",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -10561,12 +8049,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ovo",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -10577,15 +8061,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Oxygen",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["300", "regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -10598,13 +8075,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Oxygen Mono",
             category: "monospace",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10615,15 +8087,8 @@ svg {
             kind: "webfonts#webfont",
             family: "PT Mono",
             category: "monospace",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "cyrillic"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10634,18 +8099,8 @@ svg {
             kind: "webfonts#webfont",
             family: "PT Sans",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "cyrillic"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10659,16 +8114,8 @@ svg {
             kind: "webfonts#webfont",
             family: "PT Sans Caption",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "cyrillic"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -10680,16 +8127,8 @@ svg {
             kind: "webfonts#webfont",
             family: "PT Sans Narrow",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -10701,18 +8140,8 @@ svg {
             kind: "webfonts#webfont",
             family: "PT Serif",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "cyrillic"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10726,16 +8155,8 @@ svg {
             kind: "webfonts#webfont",
             family: "PT Serif Caption",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "cyrillic"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10747,12 +8168,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Pacifico",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -10763,20 +8180,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Palanquin",
             category: "sans-serif",
-            variants: [
-              "100",
-              "200",
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["100", "200", "300", "regular", "500", "600", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-22",
             files: {
@@ -10793,17 +8198,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Palanquin Dark",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "500",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["regular", "500", "600", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-22",
             files: {
@@ -10817,12 +8213,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Paprika",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10833,13 +8225,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Parisienne",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10850,13 +8237,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Passero One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10867,15 +8249,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Passion One",
             category: "display",
-            variants: [
-              "regular",
-              "700",
-              "900"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700", "900"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -10888,13 +8263,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Pathway Gothic One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10905,14 +8275,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Patrick Hand",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "vietnamese"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "vietnamese"],
             version: "v10",
             lastModified: "2015-04-06",
             files: {
@@ -10923,14 +8287,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Patrick Hand SC",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "vietnamese"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "vietnamese"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -10941,12 +8299,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Patua One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -10957,12 +8311,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Paytone One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -10973,13 +8323,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Peddana",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v4",
             lastModified: "2015-04-03",
             files: {
@@ -10990,13 +8335,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Peralta",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11007,12 +8347,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Permanent Marker",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -11023,13 +8359,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Petit Formal Script",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11040,12 +8371,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Petrona",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -11056,16 +8383,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Philosopher",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -11079,13 +8398,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Piedra",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -11096,12 +8410,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Pinyon Script",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11112,13 +8422,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Pirata One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11129,13 +8434,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Plaster",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -11146,17 +8446,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Play",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "greek",
-              "cyrillic"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "greek", "cyrillic"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11168,13 +8459,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Playball",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11185,19 +8471,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Playfair Display",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic",
-              "900",
-              "900italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic", "700", "700italic", "900", "900italic"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v10",
             lastModified: "2015-04-06",
             files: {
@@ -11213,19 +8488,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Playfair Display SC",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic",
-              "900",
-              "900italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic", "700", "700italic", "900", "900italic"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11241,13 +8505,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Podkova",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -11259,14 +8518,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Poiret One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11277,12 +8530,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Poller One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11293,13 +8542,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Poly",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -11311,12 +8555,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Pompiere",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11327,13 +8567,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Pontano Sans",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11344,12 +8579,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Port Lligat Sans",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -11360,12 +8591,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Port Lligat Slab",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -11376,15 +8603,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Pragati Narrow",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-22",
             files: {
@@ -11396,12 +8616,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Prata",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11412,12 +8628,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Preahvihear",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v8",
             lastModified: "2015-04-03",
             files: {
@@ -11428,15 +8640,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Press Start 2P",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "greek",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "greek", "cyrillic"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11447,13 +8652,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Princess Sofia",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11464,12 +8664,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Prociono",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11480,14 +8676,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Prosto One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11498,15 +8688,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Puritan",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -11520,13 +8703,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Purple Purse",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -11537,13 +8715,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Quando",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11554,15 +8727,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Quantico",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -11576,14 +8742,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Quattrocento",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -11595,16 +8755,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Quattrocento Sans",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -11618,12 +8770,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Questrial",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11634,14 +8782,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Quicksand",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["300", "regular", "700"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -11654,13 +8796,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Quintessential",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11671,13 +8808,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Qwigley",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11688,13 +8820,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Racing Sans One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11705,14 +8832,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Radley",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -11724,18 +8845,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rajdhani",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["300", "regular", "500", "600", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -11750,20 +8861,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Raleway",
             category: "sans-serif",
-            variants: [
-              "100",
-              "200",
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700",
-              "800",
-              "900"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["100", "200", "300", "regular", "500", "600", "700", "800", "900"],
+            subsets: ["latin"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -11782,13 +8881,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Raleway Dots",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11799,13 +8893,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ramabhadra",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v5",
             lastModified: "2015-04-07",
             files: {
@@ -11816,13 +8905,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ramaraja",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v1",
             lastModified: "2015-04-03",
             files: {
@@ -11833,16 +8917,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rambla",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11856,13 +8932,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rammetto One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -11873,13 +8944,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ranchers",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -11890,12 +8956,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rancho",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11906,15 +8968,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ranga",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-03",
             files: {
@@ -11926,12 +8981,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rationale",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -11942,13 +8993,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ravi Prakash",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v3",
             lastModified: "2015-04-03",
             files: {
@@ -11959,12 +9005,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Redressed",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11975,12 +9017,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Reenie Beanie",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -11991,13 +9029,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Revalia",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12008,13 +9041,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ribeye",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -12025,13 +9053,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ribeye Marrow",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12042,13 +9065,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Righteous",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -12059,13 +9077,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Risque",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12120,14 +9133,7 @@ svg {
             kind: "webfonts#webfont",
             family: "Roboto Condensed",
             category: "sans-serif",
-            variants: [
-              "300",
-              "300italic",
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
+            variants: ["300", "300italic", "regular", "italic", "700", "700italic"],
             subsets: [
               "latin-ext",
               "cyrillic-ext",
@@ -12152,12 +9158,7 @@ svg {
             kind: "webfonts#webfont",
             family: "Roboto Slab",
             category: "serif",
-            variants: [
-              "100",
-              "300",
-              "regular",
-              "700"
-            ],
+            variants: ["100", "300", "regular", "700"],
             subsets: [
               "latin-ext",
               "cyrillic-ext",
@@ -12180,12 +9181,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rochester",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12196,12 +9193,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rock Salt",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12212,13 +9205,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rokkitt",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -12230,13 +9218,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Romanesco",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -12247,14 +9230,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ropa Sans",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -12266,15 +9243,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rosario",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v10",
             lastModified: "2015-04-06",
             files: {
@@ -12288,14 +9258,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rosarivo",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12307,12 +9271,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rouge Script",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -12323,14 +9283,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rozha One",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v2",
             lastModified: "2015-04-03",
             files: {
@@ -12341,13 +9295,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rubik Mono One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v3",
             lastModified: "2015-04-03",
             files: {
@@ -12358,13 +9307,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rubik One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v3",
             lastModified: "2015-04-03",
             files: {
@@ -12375,15 +9319,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ruda",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700",
-              "900"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700", "900"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -12396,14 +9333,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rufina",
             category: "serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12415,13 +9346,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ruge Boogie",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-03",
             files: {
@@ -12432,13 +9358,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ruluko",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12449,13 +9370,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rum Raisin",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12466,14 +9382,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ruslan Display",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -12484,14 +9394,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Russo One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12502,13 +9406,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ruthie",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12519,13 +9418,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Rye",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12536,13 +9430,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sacramento",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12553,12 +9442,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sail",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12569,12 +9454,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Salsa",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12585,14 +9466,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sanchez",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12604,13 +9479,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sancreek",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -12621,12 +9491,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sansita One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12637,13 +9503,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sarina",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -12654,19 +9515,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sarpanch",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "500",
-              "600",
-              "700",
-              "800",
-              "900"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["regular", "500", "600", "700", "800", "900"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v1",
             lastModified: "2015-04-03",
             files: {
@@ -12682,12 +9532,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Satisfy",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12698,17 +9544,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Scada",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12722,13 +9559,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Scheherazade",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "arabic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "arabic"],
             version: "v10",
             lastModified: "2015-04-07",
             files: {
@@ -12739,12 +9571,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Schoolbell",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12755,13 +9583,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Seaweed Script",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12772,13 +9595,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sevillana",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-03",
             files: {
@@ -12789,14 +9607,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Seymour One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12807,12 +9619,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Shadows Into Light",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12823,13 +9631,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Shadows Into Light Two",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12840,12 +9643,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Shanti",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -12856,16 +9655,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Share",
             category: "display",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -12879,12 +9670,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Share Tech",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12895,12 +9682,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Share Tech Mono",
             category: "monospace",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12911,13 +9694,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Shojumaru",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -12928,12 +9706,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Short Stack",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12944,12 +9718,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Siemreap",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -12960,12 +9730,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sigmar One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12976,16 +9742,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Signika",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["300", "regular", "600", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -12999,16 +9757,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Signika Negative",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["300", "regular", "600", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -13022,16 +9772,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Simonetta",
             category: "display",
-            variants: [
-              "regular",
-              "italic",
-              "900",
-              "900italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic", "900", "900italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -13045,14 +9787,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sintony",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -13064,12 +9800,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sirin Stencil",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-03",
             files: {
@@ -13080,12 +9812,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Six Caps",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -13096,14 +9824,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Skranji",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -13115,13 +9837,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Slabo 13px",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v3",
             lastModified: "2015-04-06",
             files: {
@@ -13132,13 +9849,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Slabo 27px",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v3",
             lastModified: "2015-04-06",
             files: {
@@ -13149,12 +9861,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Slackey",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13165,12 +9873,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Smokum",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13181,12 +9885,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Smythe",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -13197,14 +9897,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sniglet",
             category: "display",
-            variants: [
-              "regular",
-              "800"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "800"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -13216,12 +9910,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Snippet",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13232,13 +9922,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Snowburst One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -13249,12 +9934,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sofadi One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -13265,12 +9946,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sofia",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -13281,13 +9958,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sonsie One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -13298,14 +9970,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sorts Mill Goudy",
             category: "serif",
-            variants: [
-              "regular",
-              "italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "italic"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13317,19 +9983,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Source Code Pro",
             category: "monospace",
-            variants: [
-              "200",
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700",
-              "900"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["200", "300", "regular", "500", "600", "700", "900"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13360,11 +10015,7 @@ svg {
               "900",
               "900italic"
             ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "vietnamese"
-            ],
+            subsets: ["latin-ext", "latin", "vietnamese"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -13386,15 +10037,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Source Serif Pro",
             category: "serif",
-            variants: [
-              "regular",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular", "600", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -13407,12 +10051,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Special Elite",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13423,12 +10063,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Spicy Rice",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -13439,13 +10075,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Spinnaker",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -13456,12 +10087,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Spirax",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -13472,12 +10099,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Squada One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -13488,13 +10111,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sree Krushnadevaraya",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v4",
             lastModified: "2015-04-03",
             files: {
@@ -13505,13 +10123,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Stalemate",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -13522,14 +10135,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Stalinist One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v6",
             lastModified: "2015-04-03",
             files: {
@@ -13540,13 +10147,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Stardos Stencil",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13558,13 +10160,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Stint Ultra Condensed",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -13575,13 +10172,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Stint Ultra Expanded",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -13592,14 +10184,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Stoke",
             category: "serif",
-            variants: [
-              "300",
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["300", "regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13611,12 +10197,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Strait",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -13627,12 +10209,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sue Ellen Francisco",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -13643,12 +10221,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Sunshiney",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13659,12 +10233,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Supermercado One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13675,13 +10245,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Suranna",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v4",
             lastModified: "2015-04-03",
             files: {
@@ -13692,13 +10257,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Suravaram",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v3",
             lastModified: "2015-04-03",
             files: {
@@ -13709,12 +10269,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Suwannaphum",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -13725,12 +10281,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Swanky and Moo Moo",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13741,13 +10293,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Syncopate",
             category: "sans-serif",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13759,13 +10306,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Tangerine",
             category: "handwriting",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -13777,12 +10319,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Taprom",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "khmer"
-            ],
+            variants: ["regular"],
+            subsets: ["khmer"],
             version: "v8",
             lastModified: "2015-04-03",
             files: {
@@ -13793,13 +10331,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Tauri",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -13810,18 +10343,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Teko",
             category: "sans-serif",
-            variants: [
-              "300",
-              "regular",
-              "500",
-              "600",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["300", "regular", "500", "600", "700"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -13836,12 +10359,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Telex",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -13852,13 +10371,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Tenali Ramakrishna",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v3",
             lastModified: "2015-04-03",
             files: {
@@ -13869,14 +10383,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Tenor Sans",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -13887,13 +10395,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Text Me One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -13904,12 +10407,8 @@ svg {
             kind: "webfonts#webfont",
             family: "The Girl Next Door",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -13920,14 +10419,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Tienne",
             category: "serif",
-            variants: [
-              "regular",
-              "700",
-              "900"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700", "900"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -13940,13 +10433,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Timmana",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin",
-              "telugu"
-            ],
+            variants: ["regular"],
+            subsets: ["latin", "telugu"],
             version: "v1",
             lastModified: "2015-04-07",
             files: {
@@ -13957,12 +10445,7 @@ svg {
             kind: "webfonts#webfont",
             family: "Tinos",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
             subsets: [
               "latin-ext",
               "cyrillic-ext",
@@ -13986,13 +10469,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Titan One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -14016,10 +10494,7 @@ svg {
               "700italic",
               "900"
             ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -14040,12 +10515,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Trade Winds",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -14056,13 +10527,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Trocchi",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -14073,14 +10539,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Trochut",
             category: "display",
-            variants: [
-              "regular",
-              "italic",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -14093,13 +10553,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Trykker",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -14110,12 +10565,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Tulpen One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14126,24 +10577,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ubuntu",
             category: "sans-serif",
-            variants: [
-              "300",
-              "300italic",
-              "regular",
-              "italic",
-              "500",
-              "500italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "greek",
-              "greek-ext",
-              "cyrillic"
-            ],
+            variants: ["300", "300italic", "regular", "italic", "500", "500italic", "700", "700italic"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "greek", "greek-ext", "cyrillic"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -14161,17 +10596,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ubuntu Condensed",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "greek",
-              "greek-ext",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "greek", "greek-ext", "cyrillic"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14182,20 +10608,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ubuntu Mono",
             category: "monospace",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin-ext",
-              "cyrillic-ext",
-              "latin",
-              "greek",
-              "greek-ext",
-              "cyrillic"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin-ext", "cyrillic-ext", "latin", "greek", "greek-ext", "cyrillic"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14209,12 +10623,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Ultra",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -14225,12 +10635,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Uncial Antiqua",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -14241,14 +10647,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Underdog",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v5",
             lastModified: "2015-04-03",
             files: {
@@ -14259,13 +10659,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Unica One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -14276,12 +10671,8 @@ svg {
             kind: "webfonts#webfont",
             family: "UnifrakturCook",
             category: "display",
-            variants: [
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["700"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -14292,12 +10683,8 @@ svg {
             kind: "webfonts#webfont",
             family: "UnifrakturMaguntia",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -14308,13 +10695,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Unkempt",
             category: "display",
-            variants: [
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "700"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -14326,12 +10708,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Unlock",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14342,12 +10720,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Unna",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -14358,12 +10732,8 @@ svg {
             kind: "webfonts#webfont",
             family: "VT323",
             category: "monospace",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -14374,13 +10744,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Vampiro One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14391,13 +10756,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Varela",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -14408,12 +10768,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Varela Round",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14424,12 +10780,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Vast Shadow",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14440,17 +10792,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Vesper Libre",
             category: "serif",
-            variants: [
-              "regular",
-              "500",
-              "700",
-              "900"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "devanagari"
-            ],
+            variants: ["regular", "500", "700", "900"],
+            subsets: ["latin-ext", "latin", "devanagari"],
             version: "v6",
             lastModified: "2015-04-16",
             files: {
@@ -14464,12 +10807,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Vibur",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -14480,12 +10819,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Vidaloka",
             category: "serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -14496,13 +10831,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Viga",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -14513,13 +10843,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Voces",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -14530,15 +10855,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Volkhov",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v8",
             lastModified: "2015-04-06",
             files: {
@@ -14552,15 +10870,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Vollkorn",
             category: "serif",
-            variants: [
-              "regular",
-              "italic",
-              "700",
-              "700italic"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular", "italic", "700", "700italic"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14574,12 +10885,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Voltaire",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14590,12 +10897,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Waiting for the Sunrise",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -14606,12 +10909,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Wallpoet",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -14622,12 +10921,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Walter Turncoat",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14638,13 +10933,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Warnes",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v6",
             lastModified: "2015-04-03",
             files: {
@@ -14655,13 +10945,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Wellfleet",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -14672,13 +10957,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Wendy One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin"],
             version: "v4",
             lastModified: "2015-04-06",
             files: {
@@ -14689,12 +10969,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Wire One",
             category: "sans-serif",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14705,16 +10981,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Yanone Kaffeesatz",
             category: "sans-serif",
-            variants: [
-              "200",
-              "300",
-              "regular",
-              "700"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin"
-            ],
+            variants: ["200", "300", "regular", "700"],
+            subsets: ["latin-ext", "latin"],
             version: "v7",
             lastModified: "2015-04-06",
             files: {
@@ -14728,12 +10996,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Yellowtail",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {
@@ -14744,14 +11008,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Yeseva One",
             category: "display",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin-ext",
-              "latin",
-              "cyrillic"
-            ],
+            variants: ["regular"],
+            subsets: ["latin-ext", "latin", "cyrillic"],
             version: "v9",
             lastModified: "2015-04-06",
             files: {
@@ -14762,12 +11020,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Yesteryear",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v5",
             lastModified: "2015-04-06",
             files: {
@@ -14778,12 +11032,8 @@ svg {
             kind: "webfonts#webfont",
             family: "Zeyada",
             category: "handwriting",
-            variants: [
-              "regular"
-            ],
-            subsets: [
-              "latin"
-            ],
+            variants: ["regular"],
+            subsets: ["latin"],
             version: "v6",
             lastModified: "2015-04-06",
             files: {

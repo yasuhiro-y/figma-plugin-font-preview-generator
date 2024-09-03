@@ -78,16 +78,22 @@ function generateRandomHSLColor() {
   const m = lightness - c / 2;
   let r, g, b;
   if (hue < 60) {
+    ;
     [r, g, b] = [c, x, 0];
   } else if (hue < 120) {
+    ;
     [r, g, b] = [x, c, 0];
   } else if (hue < 180) {
+    ;
     [r, g, b] = [0, c, x];
   } else if (hue < 240) {
+    ;
     [r, g, b] = [0, x, c];
   } else if (hue < 300) {
+    ;
     [r, g, b] = [x, 0, c];
   } else {
+    ;
     [r, g, b] = [c, 0, x];
   }
   return {
@@ -111,7 +117,9 @@ async function generatePreview(inputText, selectedFonts) {
     try {
       await figma.loadFontAsync(currentFontStyle);
     } catch (error) {
-      console.warn(`Failed to load font: ${currentFontStyle.family} ${currentFontStyle.style}. Skipping this family.`);
+      console.warn(
+        `Failed to load font: ${currentFontStyle.family} ${currentFontStyle.style}. Skipping this family.`
+      );
       continue;
     }
     const fontFamilyFrame = figma.createFrame();
@@ -170,7 +178,9 @@ async function generatePreview(inputText, selectedFonts) {
       try {
         await figma.loadFontAsync(style.fontName);
       } catch (error) {
-        console.warn(`Failed to load font: ${style.fontName.family} ${style.fontName.style}. Skipping this style.`);
+        console.warn(
+          `Failed to load font: ${style.fontName.family} ${style.fontName.style}. Skipping this style.`
+        );
         continue;
       }
       const styleFrame = figma.createFrame();
@@ -190,7 +200,10 @@ async function generatePreview(inputText, selectedFonts) {
       weightText.textAlignVertical = "TOP";
       weightText.layoutAlign = "STRETCH";
       weightText.textAutoResize = "HEIGHT";
-      weightText.setRangeFontName(0, weightText.characters.length, { family: "Inter", style: "Regular" });
+      weightText.setRangeFontName(0, weightText.characters.length, {
+        family: "Inter",
+        style: "Regular"
+      });
       const previewText = figma.createText();
       previewText.name = `${fontFamily} ${style.fontName.style} Preview`;
       previewText.fontName = style.fontName;
@@ -227,7 +240,7 @@ async function generatePreview(inputText, selectedFonts) {
     figma.currentPage.appendChild(frame);
     xPosition += frame.width + 50;
   }
-  figma.viewport.scrollAndZoomIntoView(fontFrames);
+  figma.closePlugin();
 }
 var fonts;
 var init_main = __esm({
