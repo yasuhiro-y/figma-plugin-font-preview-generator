@@ -60,7 +60,6 @@ function generateRandomHSLColor(): RGB {
 }
 
 async function generatePreview(inputText: string, selectedFonts: string[]) {
-  // Load Inter font for labels
   await figma.loadFontAsync({ family: 'Inter', style: 'Regular' })
   await figma.loadFontAsync({ family: 'Inter', style: 'Bold' })
 
@@ -69,7 +68,6 @@ async function generatePreview(inputText: string, selectedFonts: string[]) {
   for (const fontFamily of selectedFonts) {
     const familyStyles = fonts.filter((font) => font.fontName.family === fontFamily)
 
-    // Load the first available style of the current font family
     let currentFontStyle = familyStyles[0]?.fontName
     if (!currentFontStyle) {
       console.warn(`No styles found for font family: ${fontFamily}. Skipping this family.`)
@@ -202,7 +200,6 @@ async function generatePreview(inputText: string, selectedFonts: string[]) {
     fontFrames.push(fontFamilyFrame)
   }
 
-  // Place font frames on the page with 50px spacing
   let xPosition = 0
   let yPosition = 0
   const maxWidth = figma.viewport.bounds.width

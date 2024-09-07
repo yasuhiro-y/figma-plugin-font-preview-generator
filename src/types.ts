@@ -1,4 +1,3 @@
-// Google Fonts API からの応答に基づいた型定義
 export interface GoogleFont {
   kind: string
   family: string
@@ -12,19 +11,16 @@ export interface GoogleFont {
   }
 }
 
-// Google Fonts のリスト全体の型定義
 export interface GoogleFontsList {
   kind: string
   items: GoogleFont[]
 }
 
-// Figma の FontName 型定義
 export interface FontName {
   family: string
   style: string
 }
 
-// フィルタリングのオプション
 export type FontFilter = 'all' | 'google' | 'local'
 export type CategoryFilter =
   | 'all'
@@ -34,14 +30,12 @@ export type CategoryFilter =
   | 'handwriting'
   | 'monospace'
 
-// Textarea コンポーネントの Props
 export interface TextareaProps {
   value: string
   onValueInput: (value: string) => void
   placeholder?: string
 }
 
-// プラグインのメインコンポーネントの State
 export interface PluginState {
   inputText: string
   fonts: FontName[]
@@ -51,7 +45,6 @@ export interface PluginState {
   category: CategoryFilter
 }
 
-// プラグインのメッセージ型
 export type PluginMessage =
   | { type: 'get-fonts' }
   | { type: 'got-fonts'; fontNames: FontName[] }

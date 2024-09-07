@@ -9,7 +9,6 @@ import {
   Checkbox,
   render,
   SegmentedControl,
-  IconButton,
   useInitialFocus,
   LoadingIndicator,
 } from '@create-figma-plugin/ui'
@@ -26,7 +25,6 @@ import {
   PluginMessage,
 } from './types'
 
-// You'll need to create this JSON file
 import googleFontsData from './google-fonts.json'
 
 const googleFonts: GoogleFontsList = googleFontsData as GoogleFontsList
